@@ -4,7 +4,7 @@ A Frontend Mentor's challenge
 
 ## Design
 
-![](./design/desktop-preview.jpg)
+![](./src/design/desktop-preview.jpg)
 
 ### Links
 
